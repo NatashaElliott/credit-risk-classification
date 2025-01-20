@@ -2,7 +2,7 @@
 
 ## Overview of the Analysis: Explain the purpose of this analysis.
 
-The purpose of this analysis was to determine if the Logistic Regression model is appropriate for predicting the creditworthiness of borrowers from a peer-to-peer lending service company. The model was based on a historical lending activity.
+The purpose of this analysis was to determine if the Logistic Regression model is appropriate for predicting the creditworthiness of borrowers from a peer-to-peer lending service company. The model was based on historical lending activity.
 
 The first stage of preparing the data was to take the original dataset consisting of information based on 77536 loans, with the loan status being the subject of the prediction. The remaining information about the loan is included in the following columns:
 
@@ -14,7 +14,7 @@ The first stage of preparing the data was to take the original dataset consistin
 - Derogatory marks against the Borrower
 - Total debt
 
-This dataset was then used to train a Linear Regression model which was then used to predict if the loan status was healthy (0) or high risk (1). 
+This dataset was used to train a Linear Regression model which was then used to predict if the loan status was healthy (0) or high risk (1). 
 
 ## Results: Using a bulleted list, describe the accuracy score, the precision score, and recall score of the machine learning model.
 
