@@ -30,3 +30,6 @@ Label 1:
 
 ## Summary: Summarise the results from the machine learning model. Include your justification for recommending the model for use by the company. If you don’t recommend the model, justify your reasoning.
 The Logistic Regression model is extremely accurate, has high precision, and high recall which indiciates that the model is more than sufficient for predicting the behaviour of borrowers engaging in peer-to-peer lending. From a business perspective, I would recommend using this model as it would reduce risk due to its accuracy in predicting future behaviour based on past lending activity. 
+
+# Credits
+All code written by Natasha Elliott.
